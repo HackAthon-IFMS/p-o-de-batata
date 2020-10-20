@@ -1,0 +1,5 @@
+telepotpro
+feedparser
+collections
+requests
+bs4
